@@ -38,3 +38,16 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 
 
++ #gestion_local con curro y los encargados discutimos sobre el uso de otras especies para poder repoblar la zona, usando además una pequeña extensión de paneles fotovoltaicos con un diseño en altura que permita que en los momentos de mayor calor, las especies sembradas por debajo no tengan la máxima radiación y no se sequen. Además hay que incluir un posible beneficio socioeconómico de la iniciativa
++ #mineria #decaimiento #gestion_local Yo la idea que he hablado un poco con Curro, es que si nos pintan una visión de futuro tan catastrófica, con algo que no podemos controlar como la temperatura y el calentamiento global, ¿por qué no se invierten en otras gestiones más aprovechables a futuro, si esto va a peor? ¿Por qué poner bosques por todos lados, porque no se intentan conservar el ecosistema de matorral que existe hoy en día?
++ #mineria #decaimiento #gestion_local Y otra cosa, con la idea que me he quedado del día de hoy, un poco enlazandolo todo, ha sido que lo mejor es una restauración del ecosistema mediterráneo, introduciendo matorral heterogeneo(como el primer paso de una sucesión ecología natural), y cuando se vea una recuperación del suelo, ya empezar con la reforestacion bien gestionada de especies diferentes mediterráneas. Muy por encima.
+
+
+
+## Algunas fotos
+
+
+![1](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/1.JPG)
+![2](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/2.JPG)
+![3](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/3.JPG)
+![4](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/4.JPG)
