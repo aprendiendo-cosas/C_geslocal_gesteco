@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/almocita.jpg) 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/2022_2023/images/almocita.jpg) 
 
 ## Ubicación
 
@@ -47,7 +47,17 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 ## Algunas fotos
 
 
-![1](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/1.JPG)
-![2](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/2.JPG)
-![3](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/3.JPG)
-![4](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/main/images/4.JPG)
+![1](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/2022_2023/images/1.JPG)
+![2](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/2022_2023/images/2.JPG)
+![3](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/2022_2023/images/3.JPG)
+![4](https://raw.githubusercontent.com/aprendiendo-cosas/C_geslocal_gesteco/2022_2023/images/4.JPG)
+
+
+
+
+
+## Vídeo realizado por los estudiantes
+
+
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/UdZxeycUFyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
